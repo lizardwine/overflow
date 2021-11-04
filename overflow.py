@@ -30,7 +30,7 @@ def ToString(ls):
     for i in ls:
         if type(i) in [str,int,float,bool]:
             ret += str(i)
-       # elif str
+       
 
 
 def extract(ls,index,depth):
